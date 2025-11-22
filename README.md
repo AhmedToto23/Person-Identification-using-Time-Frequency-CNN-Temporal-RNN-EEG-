@@ -10,12 +10,14 @@ Description:
 Each subject completed two sessions on different days, allowing for cross-session evaluation (testing generalization over time).
 
 Goal: Train a CNN + RNN hybrid model to classify which subject (1–109) a given EEG segment belongs to, based on brainwave patterns..Goal: Train a CNN + RNN hybrid model to classify which subject (1–109) a given EEG segment belongs to, based on brainwave patterns..
-Each student or group should submit:
 
 Preprocessing notebook (loading, filtering, segmenting EEG)
+
 CNN + RNN model notebook (training and evaluation)
+
 Performance report including:
 Confusion matrix
 Accuracy and F1-score
 Discussion of model performance
+
 Visualization of spectrograms or feature embeddings (t-SNE)
